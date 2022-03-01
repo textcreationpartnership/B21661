@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The martial horse, or, Power of a court-martial being the general charge of Robert Kinderslie, gent. against Stevens, and others, 1651 / by Tho. Elslyot.</title>
+            <author>Kinderslie, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21661</idno>
+            <idno type="STC">Wing E640A</idno>
+            <idno type="EEBO-CITATION">11230165</idno>
+            <idno type="OCLC">ocm 11230165</idno>
+            <idno type="VID">204925</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B21661)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204925)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:43)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The martial horse, or, Power of a court-martial being the general charge of Robert Kinderslie, gent. against Stevens, and others, 1651 / by Tho. Elslyot.</title>
+                  <author>Kinderslie, Robert.</author>
+                  <author>Elslyott, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Courts-martial and courts of inquiry --  England.</term>
+               <term>Political crimes and offenses.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204925:1"/>
+            <pb facs="tcp:204925:1"/>
+            <p>The MARTIAL HORSE, OR Power of a COURT-MARTIAL.</p>
+            <p>Being the GENERAL CHARGE OF <hi>ROBERT KINDERSLIE</hi> Gent. Againſt <hi>STEVENS,</hi> and others. 1651.</p>
+            <p>BY THO. ELSLYOT, <hi>Armig. Arm. Conq.</hi>
+            </p>
+            <p>Imprinted at LONDON. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:204925:2"/>
+            <pb n="1" facs="tcp:204925:2"/>
+            <head>To the honourable Judge-Advocate and Court-Martial, now ſitting at <hi>White-hall.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He true, juſt, and humble Remonſtrance, Charge, and Petition of <hi>Robert Kinderſly</hi> Gent. and Trooper in Captain <hi>Elſmores</hi> Troop, in Colonel <hi>Rich</hi>'s Regiment; on his own behalf, and on the behalf of divers of his fellow-ſouldiers in the ſaid Troop, in purſuit of his Petition pre<g ref="char:EOLhyphen"/>ſented unto this honorable Court upon <hi>Munday</hi> the 22 of this inſtant <hi>Decemb.</hi> 1651. againſt <hi>William Stevens,</hi> now or late a Conſtable, and his wife; <hi>Iohn Wilton,</hi> Gardiner; <hi>Ri<g ref="char:EOLhyphen"/>chard S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nders,</hi> Inſtrument-maker; <hi>Maurice Ford,</hi> Victualler; <hi>Richard Lowther</hi> Gent. and <hi>William Caldwel</hi> an Informer, and <hi>Thomas Brown</hi> Labourer; all living in or about <hi>Spittle<g ref="char:EOLhyphen"/>fields</hi> in the Pariſh of <hi>Stepnie-heath</hi> in the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> inhabitants or members, within, or of, this preſent Commonwealth, but malignantly affected to the preſent Government the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eof, as may appear by the ſequele.</p>
+            <p>And firſt, your Petitioner remonſtrateth unto this ho<g ref="char:EOLhyphen"/>norable Court. That whereas the honorable Parliament of <hi>England,</hi> being the ſupreme Judicatory of this Nation, hath been heretofore neceſſitated, for their defence, and all Powers ſet up by them; as namely, for the defence of the Council of State; and High Court of Juſtice, daily threatned by the late Tyrant and his ſon, and their evil counſellors, and ſeveral other traitors and evil affected perſons, ſuch as be Papiſts, Malignants, Delinquents, and other enemies and oppoſers of the honorable proceedings
+<pb n="2" facs="tcp:204925:3"/>of Parliament, and the Powers aforeſaid, for the preſerva<g ref="char:EOLhyphen"/>tion of <hi>the Keepers of the Liberties of England by authority of Parliament,</hi> To raiſe an Army ſometimes under the com<g ref="char:EOLhyphen"/>mand of their Excellencies the Earl of <hi>Eſſex</hi> and the Lord <hi>Fairfax,</hi> but now under the command of <hi>Oliver Cromwel</hi> Eſq; Captain General of all the Engliſh Force, and Lord Governour of <hi>Ireland;</hi> and the General Officers of the Army being men of approved wiſdom, fidelity, and cou<g ref="char:EOLhyphen"/>rage, for their regulating, diſciplinating, and commanding of the Souldiery thereof, in their ſeveral orders and ſta<g ref="char:EOLhyphen"/>tions, to the great honour of Almighty God, glory of the Parliament, and State of this Nation, and the good of the preſent Commonwealth.</p>
+            <p>And your Petitioner further remonſtrateth unto this honorable Court, That whereas not onely all Heatheniſh but Chriſtian Armies in this preſent world, have been in all ages, and at this preſent time be diſciplinated, conduct<g ref="char:EOLhyphen"/>ed, and commanded (as exigencies of affairs from time to time be incident, unto their motions and ſtations either in Field or Gariſon) and have been, and now are, ordered and governed by Military and Civil Law and Govern<g ref="char:EOLhyphen"/>ment, not by any Legal, National, or Common Law whatſoever: by means whereof, it hath of late pleaſed di<g ref="char:EOLhyphen"/>vine providence always to go along with them, and own them, and the Parliament of <hi>England</hi>'s juſt Cauſe, againſt all their oppoſers, maugre all their enemies.</p>
+            <p>And your Petitioner further remonſtrateth, That where<g ref="char:EOLhyphen"/>as the honorable Parliament of <hi>England,</hi> about the 12 of <hi>August</hi> laſt paſt, getting notice of the laſt Invaſion of the Scotiſh Army, aſſiſted with certain Engliſh Fugitives, taking for their Head that Traytor <hi>Charles Stewart</hi> the younger, were pleaſed to publiſh and declare an Act of Parliament to the people of this Nation, to admoniſh them to be cautious in adhering unto him and his party,
+<pb n="3" facs="tcp:204925:3"/>or to be any ways deluded by them, under the penalty of High Treaſon; and for three months time gave power to any Court Martial lawfully authorized by this prefent Army under the now-General's Command, to take cog<g ref="char:EOLhyphen"/>nizance thereof, and to proceed with the ſaid perſons ſo offending againſt the ſaid Act to ſentence, by the Rules of a Court Martial (which be Military and Civil, as afore<g ref="char:EOLhyphen"/>ſaid) at any time within three months, as by the ſaid Act, hereunto annexed, may appear.</p>
+            <p>And your Petitioner laſtly Remonſtrateth unto this Honorable Court, that Col. <hi>Rich,</hi> a Colonell, and a wor<g ref="char:EOLhyphen"/>thy Member of the Parliament, and of this preſent Ar<g ref="char:EOLhyphen"/>my, having about the beginning of <hi>October</hi> laſt, recei<g ref="char:EOLhyphen"/>ved certain Intelligence from the Souldiery and divers others, well affected Perſons unto the Parliament, Army and State, That the ſaid <hi>Stevens</hi> and his wife, <hi>Wilton San<g ref="char:EOLhyphen"/>ders, Ford, Caldwel, Brown,</hi> and others, had ſpoken and moſt maliciouſly uttered certain Malignant, dangerous, and pernicious words, againſt the Parliament, Councel of State, and Army, in ſaying that they were a company of Rogues; And that they the ſaid Malefactors would not ſubmit to their Government by them Eſtabliſhed in this preſent Commonwealth, unleſs it were under the Tr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<g ref="char:EOLhyphen"/>tor <hi>Charls Stewart</hi> the younger, the King of <hi>Scots,</hi> whom they called King <hi>Charls</hi> the Second, or words to that ef<g ref="char:EOLhyphen"/>fect: whereupon, the ſaid Colonel <hi>Rich,</hi> like a wiſe Senator of the Parliament of <hi>England,</hi> and Mem<g ref="char:EOLhyphen"/>ber of this preſent Army, did give Order unto your Pe<g ref="char:EOLhyphen"/>titioner and his fellow Soldiers, he being their Superior in order to Military Diſcipline, forthwith to ſciſe and ap<g ref="char:EOLhyphen"/>prehend the aforenamed evil affected perſons, if they could be found, and to bring them before him, to be proceeded with according to Juſtice, and to diſarm them, and to ſeiſe their Arms for the uſe and benefit of
+<pb n="4" facs="tcp:204925:4"/>the Parliament, State and Commonwealth, as it was juſt and Lawfull for him to do; and your Petitioner and his fellow Souldiers in obedience unto their Colonels Lawfull Command being their Superior, did forthwith repair unto the ſaid evil affected perſons houſes, to make dilligent ſearch for their perſons, and where your Peti<g ref="char:EOLhyphen"/>tioner and his fellow Souldiers were oppoſed, they broke open their dores and houſes in purſuit of their Lawful Command, and not finding of their perſons, did ſecure ſuch Arms as they found in their houſes, for the uſe and benefit of the Parliament, State and Commonwealth, as they hope it was Lawfull for them to do, under the favor of this Honorable Court; but the ſaid evil affected per<g ref="char:EOLhyphen"/>ſons with the advice of the ſaid <hi>Lowther,</hi> altogether ma<g ref="char:EOLhyphen"/>chinating and deſpiſing the Authority of Military Di<g ref="char:EOLhyphen"/>ſcipline, and of this Honorable Court, did lurk and play at bo-peep from and with your Petitioner and his fellow Soldiers, untill the 3 Months limited in the ſaid Act by Martial Diſcipline were elapſed; and then to colour their Malefactions and to bring diſhonor and an <hi>odium</hi> upon your Petitioner and his fellow Soldiers, being Members of this preſent Army, and ſo conſequently upon the whole Army and the Military Diſcipline thereof; they the ſaid evil affected perſons did lately privily repair unto the Seſſions Houſe at <hi>Hixes</hi> Hall, held before the Juſti<g ref="char:EOLhyphen"/>ces of Peace in the County of <hi>Middleſex,</hi> this laſt pre<g ref="char:EOLhyphen"/>ſent Seſſions, and did there maliciouſly prefer an Indict<g ref="char:EOLhyphen"/>ment of <hi>Burglary</hi> and <hi>Felony</hi> againſt your Petitioner and his fellow Souldiers for the Premiſes to the Grand In<g ref="char:EOLhyphen"/>queſt, Sworn for the Preſentments and Indictments for the County againſt Malefactors and evil doers; and upon their falſe Teſtimony given to the ſaid Grand Inqueſt, the ſaid evil affected perſons procured the ſaid Bill of In<g ref="char:EOLhyphen"/>dictment of <hi>Burglary</hi> and <hi>Felony,</hi> ſo preſented by them
+<pb n="5" facs="tcp:204925:4"/>againſt your Petitioner and his fellow Souldiers, to be found <hi>billa vera;</hi> and not therewith content, the ſaid evil affected perſons cauſed the ſaid Bill ſo found, to be tranſ<g ref="char:EOLhyphen"/>mitted from <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xes</hi> Hall, unto the Seſſions Houſe in the <hi>Old Bailey,</hi> and thereupon procured a Warrant from the Recorder and Bench, and another from the ſaid <hi>Louther,</hi> directed to all Conſtables, Head-Burrows, and other Of<g ref="char:EOLhyphen"/>ficers of the Common Law of this Land, for the preſent apprehending of your Petitioner and his fellow Soldiers, in all Quarters of <hi>London, Middleſex,</hi> or <hi>Weſtminſter,</hi> And by colour thereof have not only broken open your Peti<g ref="char:EOLhyphen"/>tioner <hi>Kinderſties</hi> houſe in the Pariſh of St <hi>Giles</hi>'s <hi>Cripple<g ref="char:EOLhyphen"/>gate,</hi> to the great aſtoniſhment and affrightment of his Wife and Family; but have alſo at ſundry times ſince attempted to ſeiſe upon your Petitioner and his fellow Soldiers perſons by colour of the ſaid Warrant, when they have been upon the Guard of the Honorable Parli<g ref="char:EOLhyphen"/>ament of <hi>England</hi> at <hi>Weſtminſter,</hi> the Councel of State at <hi>White Hall,</hi> in their Horſe-quarters at the <hi>Muſe,</hi> and in paſſing through the ſtreets of <hi>London,</hi> the Armies Garri<g ref="char:EOLhyphen"/>ſon, to the great diſhonor of the Parliament, Councel of Sta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and Army, and of this Honorable Court, and of all Military Diſcipline, and to the terror, diſcouragement, and amazement of divers of the Soldiery of the Army, who have ſeriouſly proteſted, That rather then they will ſee the Army ſo affronted, and the Soldiery thereof ſo a<g ref="char:EOLhyphen"/>buſed, they will lay down their Arms, and bear no more for the defence of the Parliament, Councel of State and Commonwealth of <hi>England,</hi> ſince they cannot obey the Lawfull Command of their Superiors, but to be reputed <hi>Burglars, Felons</hi> and <hi>theeves</hi> of this preſent Common<g ref="char:EOLhyphen"/>wealth, for the advancement whereof they have adven<g ref="char:EOLhyphen"/>tured their Lives, Bloods and fortunes. And of the truth of this Charge, your Petitioner as well on his own be<g ref="char:EOLhyphen"/>half,
+<pb n="6" facs="tcp:204925:5"/>as on the behalf of his fellow Soldiers, doth here<g ref="char:EOLhyphen"/>by offer to hazard his life to make good by due proceſs, the verity thereof.</p>
+            <p>
+               <q>And therefore he humbly prayeth, as in his Petition upon Monday laſt he did pray (that is to ſay) that your Peti<g ref="char:EOLhyphen"/>tioners Cauſe may be duely examined according to Law Military and Civil in this Honorable Court, and that the ſaid evil affected perſons may be forthwith ſent for, and ſecured (and that the truth of this appearing) upon due proof, that they may be made exemplary to future Ages, for the Honor of this preſent Army and Soldiery thereof, by the Juſtice of this Honerable Court, and that in the mean time, that their malicious proceedings upon their Indict<g ref="char:EOLhyphen"/>ment at the Common Law againſt your Petitioner and his fellow Soldiers, may be ſtaid; and your Petitioner will ever pray for the Juſtice of this Honorable Court, and remain a faithfull Soldier to the Noble General and Army of the Commonwealth of <hi>England,</hi> whilſt he lives to be</q>
+            </p>
+            <closer>
+               <signed>Robert Kinderſlie.</signed>
+            </closer>
+            <postscript>
+               <p>This is a true Copie of the Originall Charge deliuered upon <hi>Saturday</hi> night, the 27<hi rend="sup">th</hi> of this inſtant <hi>December</hi> 1651. to the Honorable Judge Advocate, and was read upon <hi>Wedneſday</hi> at a Court Marti<g ref="char:EOLhyphen"/>al at <hi>White Hall</hi> the laſt of <hi>December</hi> laſt, and doth remain upon Record to future Ages, and to expreſs to the <hi>Engliſh</hi> Nation, the Au<g ref="char:EOLhyphen"/>thority of Military Diſciplince, juſtly and anciently belonging to Armies,</p>
+               <closer>
+                  <signed>By <hi>Tho. Elſlyot</hi> Ar. Ar. Conq.</signed>
+               </closer>
+            </postscript>
+            <epigraph>
+               <q>
+                  <lg>
+                     <head>De Vita <hi>Thomae Elſlyott,</hi> Ar. Ar. Con<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan>
+                     </head>
+                     <l>Armiger Armorum, brumali vixit in aevo;</l>
+                     <l>Pro<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Cibo eſt, rarò, nectare, aqua, inque fumo,</l>
+                     <l>Eſt Lac concretum miſtum cum ſanguine Gervi, &amp;</l>
+                     <l>Mel Condenſum actum, (Vere) labore Apium</l>
+                     <l>Vipere is quo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> (per ſe) Captis carnibus, almet</l>
+                     <l>Corpus, vi<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Dei, <hi>Odonta</hi> Lupoſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> rapit:</l>
+                     <l>(Hic eſt)<lb/> Armiger Armorum Conqueſtor Cauſidicorum.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204925:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
